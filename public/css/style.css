@@ -1,0 +1,10 @@
+body {
+  background-color: yellow;
+}
+
+@media (min-width: 768px) {
+  #iconos {
+    justify-content: flex-end !important;
+    align-items: flex-end !important;
+  }
+}
